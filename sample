@@ -2,9 +2,17 @@ one
 two
 three
 four
+<<<<<<< HEAD
 five
 six
 seven
 eight
 
+=======
+5
+6
+7
+8
+9
+>>>>>>> dev
 
